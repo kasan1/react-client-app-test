@@ -1,0 +1,93 @@
+{
+  "TITLE": "BPM",
+  "COMMON": {
+    "NO": "Жоқ",
+    "YES": "Иә",
+    "DESCRIPTION": "Сипаттама",
+    "FILES": "Файлдар",
+    "LOGIN": "Логин (ЖСН)",
+    "PASSWORD": "Құпия сөз",
+    "EXIT": "Шығу",
+    "SEARCH": "Аты-жөні/ЖСН",
+    "BACK": "Артқа",
+    "DECLINE": "Қайтару",
+    "ACCEPT": "Қабылдау",
+    "COMMENT": "Комментарий",
+    "CONCLUSION": "Тұжырым",
+    "NOTES": "Толықтыру",
+    "SEND": "Жіберу",
+    "UPLOAD": "Жүктеу"
+  },
+  "COMPONENTS": {
+    "TOP_BAR": {
+      "LOGIN_BUTTON": "Кіру",
+      "LOGIN_MODAL_TITLE": "Ақпарат еңгізіңіз"
+    },
+    "SIDE_BAR": {
+      "TASKS_LIST": "Тапсырмалар тізімі"
+    },
+    "NOT_FOUND": {
+      "TEXT": "Парақша табылмады"
+    },
+    "TASKS_LIST": {
+      "TITLE": "Менің тапсырмаларым",
+      "REGISTER_NUMBER": "Өтінім №",
+      "IIN": "ЖСН",
+      "FULLNAME": "Толық аты-жөні",
+      "LOAN_PRODUCT": "Продукт",
+      "LOAN_STATUS": "Статус"
+    },
+    "TASK_DETAILS": {
+      "TITLE": "{date} күнгі кредиттік өтініш",
+      "DEFAULT_TITLE": "Кредиттік өтініш"
+    },
+    "TASK_DETAILS_INFO": {
+      "CLIENT_DATA": "Клиент жайлы ақпарат",
+      "ASSETS": "Активтер",
+      "EQUIPMENT": "Техника",
+      "DOCUMENTS": "Құжаттар",
+      "FIN_ANALYSIS": "Қаржылық анализ"
+    },
+    "TASK_DETAILS_FORM": {
+      "FORM": "Форма",
+      "HISTORY": "Тарих",
+      "EXPERTISE": "Экспетриза"
+    },
+    "ASSETS": {
+      "LAND": "Земельные угодия",
+      "BIO": "Биологические активы",
+      "FLORA": "Посевные активы",
+      "TECH": "Собственная техника (оборудование)"
+    },
+    "CONTRACTS": {
+      "CALCULATOR": "Калькулятор",
+      "TECHNIQUES": "Договор"
+    },
+    "FIN_ANALYSIS": {
+      "DATE_OF_INSPECTION": "Тексеру күні",
+      "OVERALL_STATUS": "Қорытынды статус"
+    },
+    "ACCEPT_DECLINE_FORM": {
+      "DECLINE_DIALOG_TITLE": "Қабылдаумау себебін келтіріңіз",
+      "ACCEPT_DIALOG_TITLE": "Сіз өтінішті қабылдауға сенімдісіз бе?",
+      "ACCEPT_DIALOG_SUBTITLE": "Өтініш қабылданған соң оның статусы 'жұмыста' болып өзгертіледі"
+    },
+    "USER_REPORT_FORM": {
+      "VIEW_ALL_COMMENTS": "Барлық ескертулерді қарау",
+      "DECLINE_DIALOG_TITLE": "Өтінішті түзетуге жібергіңіз келіп тұрғанына сенімдісіз бе?",
+      "DECLINE_DIALOG_SUBTITLE": "Әр пункт бойынша ескертулерді көрсетуге ұмытпаңыз",
+      "ACCEPT_DIALOG_TITLE": "Өтініш барлық талаптарға сай екендігіне сенімдісіз бе?",
+      "ACCEPT_DIALOG_SUBTITLE": "Өтініш қабылданғаннан кейін кредит менеджерге өтеді"
+    },
+    "COMMENTS_LIST": {
+      "DELETE_DIALOG_TITLE": "Сіз ескертуді өшіруге сенімдісіз бе?",
+      "DELETE_DIALOG_SUBTITLE": "Ескерту өшірілгеннен кейін, оған тіркелген барлық файлдар жойылады"
+    }
+  },
+  "PERSONAL_DATA": {
+    "IIN": "ЖСН",
+    "INDENTIFICATION": "Жеке куәлік",
+    "REGISTER_ADDRESS": "Тіркелу мекен-жайы",
+    "PHONE_NUMBER": "Телефон нөмірі"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "TITLE": "BPM",
+  "COMMON": {
+    "NO": "Нет",
+    "YES": "Да",
+    "IDENTIFIER": "ИИН",
+    "DESCRIPTION": "Описание",
+    "FILES": "Файлы",
+    "LOGIN": "Логин (ИИН)",
+    "PASSWORD": "Пароль",
+    "CONFIRM_PASSWORD": "Подтверждение пароля",
+    "EXIT": "Выход",
+    "SEARCH": "Поиск",
+    "BACK": "Назад",
+    "DECLINE": "Отклонить",
+    "ACCEPT": "Принять",
+    "COMMENT": "Комментарий",
+    "CONCLUSION": "Заключение",
+    "NOTES": "Примечание",
+    "SEND": "Отправить",
+    "UPLOAD": "Загрузить",
+    "FIRST_NAME": "Имя",
+    "LAST_NAME": "Фамилия",
+    "MIDDLE_NAME": "Отчество",
+    "EMAIL": "Электронная почта",
+    "PHONE": "Телефон",
+    "BIRTH_DATE": "Дата рождения",
+    "SAVE": "Сохранить",
+    "NEXT": "Далее",
+    "PREV": "Назад",
+    "CONTINUE": "Продолжить",
+    "FINISH": "Завершить",
+    "ADD": "Добавить",
+    "REMOVE": "Удалить",
+    "IIN": "ИИН",
+    "BRANCH": "Филиал",
+    "POSITION": "Должность",
+    "ROLES": "Роли"
+  },
+  "COMPONENTS": {
+    "TOP_BAR": {
+      "LOGIN_BUTTON": "Войти",
+      "LOGIN_MODAL_TITLE": "Введите ваши данные"
+    },
+    "SIDE_BAR": {
+      "TASKS_LIST": "Список задач",
+      "PROFILE": "Профиль",
+      "ADMIN": "Админ панель",
+      "IMPORT": "Загрузка списков",
+      "MONITORING": "Мониторинг"
+    },
+    "NOT_FOUND": {
+      "TEXT": "Страница не найдена"
+    },
+    "TASKS_LIST": {
+      "TITLE": "Мои задачи",
+      "REGISTER_NUMBER": "№ заявки",
+      "IIN": "ИИН",
+      "FULLNAME": "ФИО",
+      "LOAN_PRODUCT": "Продукт",
+      "LOAN_STATUS": "Статус",
+      "LOAN_TYPE": "Тип программы"
+    },
+    "TASK_DETAILS": {
+      "TITLE": "Кредитная заявка от {date}",
+      "DEFAULT_TITLE": "Кредитная заявка"
+    },
+    "TASK_DETAILS_INFO": {
+      "CLIENT_DATA": "Сведения о клиенте",
+      "ASSETS": "Активы",
+      "CLIENT_EXTRA_DETAILS": "Дополнительная информация",
+      "EQUIPMENT": "Техника",
+      "DOCUMENTS": "Документы",
+      "FIN_ANALYSIS": "Финансовый анализ"
+    },
+    "TASK_DETAILS_FORM": {
+      "FORM": "Форма",
+      "HISTORY": "История",
+      "EXPERTISE": "Экспетриза",
+      "CREDIT_COMMITTEE": "Кредитный комитет"
+    },
+    "ASSETS": {
+      "LAND": "Земельные угодия",
+      "BIO": "Биологические активы",
+      "FLORA": "Посевные активы",
+      "TECH": "Собственная техника (оборудование)"
+    },
+    "CLIENT_EXTRA_DETAILS": {
+      "OWNERS": "Собственники",
+      "LICENSES": "Лицензии",
+      "VAT_CERTIFICATE": "Свидетельство НДС"
+    },
+    "CONTRACTS": {
+      "CALCULATOR": "Калькулятор",
+      "TECHNIQUES": "Договор",
+      "PROVISIONS": "Предлагаемые обеспечения"
+    },
+    "FIN_ANALYSIS": {
+      "DATE_OF_INSPECTION": "Дата проверки",
+      "OVERALL_STATUS": "Общий Статус"
+    },
+    "ACCEPT_DECLINE_FORM": {
+      "DECLINE_DIALOG_TITLE": "Укажите причину отказа",
+      "ACCEPT_DIALOG_TITLE": "Вы уверены что хотите принять заявку?",
+      "ACCEPT_DIALOG_SUBTITLE": "После принятия заявки статус заявки измениться на 'в работе'"
+    },
+    "USER_REPORT_FORM": {
+      "VIEW_ALL_COMMENTS": "Посмотреть все замечания",
+      "DECLINE_DIALOG_TITLE": "Вы уверены что хотите отправить заявку на доработку?",
+      "DECLINE_DIALOG_SUBTITLE": "Пожалуйста не забудьте указать замечание по каждому пункту",
+      "ACCEPT_DIALOG_TITLE": "Вы уверены что заяка проходит по всем требованиям?",
+      "ACCEPT_DIALOG_SUBTITLE": "После принятия заявка перейдет к кредитному менеджеру"
+    },
+    "COMMENTS_LIST": {
+      "DELETE_DIALOG_TITLE": "Вы уверены что хотите удалить замечание?",
+      "DELETE_DIALOG_SUBTITLE": "После его удаления, также будут удалены все прикрепленные файлы"
+    },
+    "CLIENT_DETAILS": {
+      "ORGANIZATION": "Организация",
+      "ORGANIZATION_FULLNAME": "Полное наименование",
+      "FULLNAME": "ФИО",
+      "ADDRESS": "Адрес",
+      "REGISTER_ADDRESS": "Юридический адрес",
+      "FACT_ADDRESS": "Фактический адрес",
+      "PHONE": "Телефон",
+      "WORK_PHONE_NUMBER": "Рабочий номер",
+      "MOBILE_PHONE_NUMBER": "Мобильный номер",
+      "HOME_PHONE_NUMBER": "Домашний номер",
+      "FAX": "Факс",
+      "EMAIL": "Электронная почта",
+      "IIN_BIN": "ИИН/БИН",
+      "IIN": "ИИН",
+      "BIN": "БИН",
+      "OKED": "Вид деятельности",
+      "ORGANIZATION_TYPE": "Тип организации",
+      "OWNERSHIP_FORM": "Форма собственности",
+      "PARENT_COMPANY": "Курирующее ведомство, холдинг или материнская компания",
+      "IDENTIFICATION_DOCUMENT": "Номер и дата свидетельства о регистрации (перерегистрации)",
+      "REGISTRATION_DOCUMENT": "Номер и дата регистрации (перерегистрации)",
+      "BENEFICIARY": "Бенефициар",
+      "CITIZENSHIP": "Гражданство",
+      "PASSPORT": "Паспортные данные",
+      "PASSPORT_NUMBER": "Номер паспорта",
+      "PASSPORT_ISSUER": "Кем выдано",
+      "PASSPORT_ISSUE_DATE": "Дата выдачи",
+      "REPRESENTATIVE": "Представитель",
+      "CONTACTS": "Контактные лица",
+      "BANK_ACCOUNTS": "Банковские счета",
+      "BANK_ACCOUNT_BIC": "БИК",
+      "BANK_ACCOUNT_NUMBER": "Номер счета",
+      "HEAD": "Руководитель",
+      "BOOKER": "Бухгалтер",
+      "BIRTH_DATE": "Дата рождения",
+      "BIRTH_PLACE": "Место рождения",
+      "EDUCATION": "Образование",
+      "MARRIAGE_STATUS": "Семейный статус",
+      "SPOUSE": "ФИО супруга(ги)",
+      "CREDIT_HISTORY": "Кредитная история",
+      "CREDIT_ORGANIZATION_FULLNAME": "Наименование КТ, МФО или МКО",
+      "CREDIT_SUM": "Сумма задолженности, тенге",
+      "CREDIT_ISSUE_DATE": "Дата выдачи",
+      "CREDIT_PERIOD": "Срок погашения по кредитному договору, месяцев",
+      "CREDIT_BALANCE": "Остаток непогашенной задолженности",
+      "AFFILIATED_ORGANIZATIONS": "Аффилированные компании",
+      "AFFILIATED_ORGANIZATION_FULLNAME": "Наименование предприятия, адрес",
+      "AFFILIATED_ORGANIZATION_BANK_ACCOUNTS": "Обслуживаюшие банки, № счетов",
+      "AFFILIATED_ORGANIZATION_SHARE_IN_COMPANY": "Доля в уставном (акционерной) компании",
+      "AFFILIATED_ORGANIZATION_DEBT_SUM": "Размер ссудной задолженности с указанием банка",
+      "WORK_EXPERIENCE": "Стаж работы",
+      "WORK_EXPERIENCE_TOTAL": "Общий стаж работы",
+      "WORK_EXPERIENCE_AGRICULTURE": "Стаж работы в сельском хозяйстве"
+    },
+    "PROFILE": {
+      "TITLE": "Редактировать профиль",
+      "CHANGE_PASSWORD": "Сменить пароль",
+      "CHANGE_IMAGE": "Сменить фото"
+    },
+    "CHANGE_PASSWORD": {
+      "OLD_PASSWORD": "Текущий пароль",
+      "NEW_PASSWORD": "Новый пароль",
+      "CONFIRMED_NEW_PASSWORD": "Подтверждение нового пароля"
+    },
+    "USERS_TABLE": {
+      "ORDER": "№",
+      "USERNAME": "Имя пользователя",
+      "FULLNAME": "ФИО",
+      "EMAIL": "Электронная почта",
+      "POSITION": "Филиал и должность",
+      "ACTIONS": "Действия"
+    },
+    "ADMIN": {
+      "STEPPER": {
+        "PERSONAL_DATA": "Персональные данные",
+        "BRANCHES_AND_POSITIONS": "Филиалы и должность",
+        "ROLES": "Роли",
+        "SUCCEED_MESSAGE": "Все шаги успешно пройдены",
+        "ERROR_MESSAGE": "Пожалуйста проверьте что все поля заполнены верно"
+      }
+    },
+    "IMPORT": {
+      "TYPE": "Тип проверки",
+      "FILE": "Файл",
+      "IMPORT": "Загрузить"
+    },
+    "MONITORING": {
+      "DOWNLOAD": "Скачать",
+      "DATE_FROM": "Начало периода",
+      "DATE_TO": "Конец периода"
+    }
+  },
+  "PERSONAL_DATA": {
+    "IIN": "ИИН",
+    "INDENTIFICATION": "Уд. личности",
+    "REGISTER_ADDRESS": "Адрес регистрации",
+    "PHONE_NUMBER": "Номер телефона"
+  }
+}

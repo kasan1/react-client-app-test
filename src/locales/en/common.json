@@ -1,0 +1,17 @@
+{
+  "TITLE": "BPM",
+  "COMMON": {
+    "DESCRIPTION": "Description",
+    "FILES": "Files",
+    "EXIT": "Exit"
+  },
+  "COMPONENTS": {
+    "TOP_BAR": {
+      "LOGIN_BUTTON": "Login",
+      "LOGIN_MODAL_TITLE": "Enter data"
+    },
+    "SIDE_BAR": {
+      "TASKS_LIST": "Tasks list"
+    }
+  }
+}
